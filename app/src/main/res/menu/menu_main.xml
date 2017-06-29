@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jane.aboutmidecent.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:title="..."
+        app:showAsAction="always" >
+        <menu>
+            <item
+                android:id="@+id/add"
+                android:title="Add">
+
+            </item>
+            <!--<item
+                android:id="@+id/modify"
+                android:title="Modify">
+
+            </item>
+            <item
+                android:id="@+id/delete"
+                android:title="Delete">
+
+            </item>-->
+        </menu>
+    </item>
+</menu>

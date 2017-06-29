@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AboutMember</string>
+    <string name="action_settings">Setting</string>
+    <string name="title_activity_member_detail">MemberDetail</string>
+    <string name="title_activity_member_add">MemberAddActivity</string>
+</resources>
